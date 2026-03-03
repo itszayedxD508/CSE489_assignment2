@@ -1,0 +1,62 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: ZAYED MASUM
+Student ID: 22101461
+Assignment: 2
+Date: 03/03/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[x] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[x] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how: I used Claude to understand the concepts of Flutter development including broadcast receivers, image scaling, video playback, and audio playback. I also used Claude to help me debug my code and to generate code snippets for the four screens of this assignment.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: main.dart              Section: navigation drawer and layout
+File: broadcast_receiver_screen.dart Section: broadcast receiver implementation
+File: image_scale_screen.dart Section: image scaling with gestures
+File: video_player_screen.dart Section: video player implementation
+File: audio_player_screen.dart Section: audio player implementation
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: ______zayed_________________
+Date: ______03/03/2026___________________________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
